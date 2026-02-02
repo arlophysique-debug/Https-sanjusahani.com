@@ -68,4 +68,4 @@ if(u==='admin' && p==='1234'){document.getElementById('msg').innerText='Login Su
 else{document.getElementById('msg').innerText='Wrong Credentials'}
 }
 </script></body>
-</html># Https-sanjusahani.com
+</html>
